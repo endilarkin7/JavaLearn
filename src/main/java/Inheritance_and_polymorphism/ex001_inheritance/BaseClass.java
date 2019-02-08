@@ -5,7 +5,7 @@ package Inheritance_and_polymorphism.ex001_inheritance;
  */
 public class BaseClass {
     // Поля
-/
+
     // Открытое поле.
     public String publicField = "BaseClass.publicField";
 
